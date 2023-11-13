@@ -1,0 +1,11 @@
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80vh;
+    height: 20vh ;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
